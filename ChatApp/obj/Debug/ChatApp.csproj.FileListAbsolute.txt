@@ -1,0 +1,9 @@
+E:\UpWork\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+E:\UpWork\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+E:\UpWork\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+E:\UpWork\ChatApp\ChatApp\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache
+E:\UpWork\ChatApp\ChatApp\obj\Debug\ChatApp.Form1.resources
+E:\UpWork\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+E:\UpWork\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.Cache
+E:\UpWork\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+E:\UpWork\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
